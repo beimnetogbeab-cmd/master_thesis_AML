@@ -1,0 +1,17 @@
+feature,importance
+payment_format_frequency,0.4073808
+same_currency,0.23101483
+same_bank,0.10483725
+amount_difference_ratio,0.09464661
+from_bank_frequency,0.041728903
+log_amount_received,0.02264071
+weekday_cos,0.015037125
+payment_currency_frequency,0.011719117
+log_amount_paid,0.011684688
+receiving_currency_frequency,0.0108186165
+is_weekend,0.010471354
+weekday_sin,0.010230562
+to_bank_frequency,0.009961261
+hour_cos,0.009369687
+hour_sin,0.0084584
+amount_ratio,0.0

@@ -1,0 +1,5 @@
+IBM_PUBLIC_DATASET/
+outputs/ibm_aml/ibm_account_features.csv
+outputs/ibm_aml/benchmark_2_typology_features/typology_feature_snapshots/
+__pycache__/
+*.pyc

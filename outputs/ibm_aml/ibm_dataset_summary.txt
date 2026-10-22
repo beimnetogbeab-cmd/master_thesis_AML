@@ -1,0 +1,13 @@
+IBM AML dataset summary
+Transactions: 5,078,345
+Unique accounts: 515,088
+Unique banks: 30,528
+Laundering transactions: 5,177
+Normal transactions: 5,073,168
+Laundering rate: 0.1019%
+Duplicate complete rows: 9
+Start timestamp: 2022-09-01 00:00:00
+End timestamp: 2022-09-18 16:18:00
+Payment formats: 7
+Payment currencies: 15
+Receiving currencies: 15

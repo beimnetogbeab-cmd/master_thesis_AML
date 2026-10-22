@@ -1,0 +1,15 @@
+{
+  "model": "xgboost",
+  "threshold": 0.9602605700492859,
+  "precision": 0.14972847168347556,
+  "recall": 0.3709160794362588,
+  "f1": 0.2133382461311717,
+  "pr_auc": 0.17704587903815916,
+  "false_positive_rate": 0.004325228791185373,
+  "true_negatives": 756903,
+  "false_positives": 3288,
+  "false_negatives": 982,
+  "true_positives": 579,
+  "training_seconds": 3.8469061001669616,
+  "inference_seconds": 2.6920002999249846
+}
