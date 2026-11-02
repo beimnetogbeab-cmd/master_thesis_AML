@@ -1,0 +1,16 @@
+{
+  "model": "random_forest",
+  "threshold": 0.6938021098846888,
+  "precision": 0.14080375476679377,
+  "recall": 0.3074951953875721,
+  "f1": 0.193158953722334,
+  "pr_auc": 0.11275707146698331,
+  "false_positive_rate": 0.003852979053948284,
+  "true_negatives": 757262,
+  "false_positives": 2929,
+  "false_negatives": 1081,
+  "true_positives": 480,
+  "training_seconds": 15.862893000012264,
+  "inference_seconds": 6.938134500058368,
+  "feature_set": "transaction_plus_point_in_time_typology"
+}
