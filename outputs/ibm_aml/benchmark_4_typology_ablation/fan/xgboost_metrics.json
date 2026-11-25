@@ -1,0 +1,17 @@
+{
+  "model": "xgboost",
+  "threshold": 0.9638718962669373,
+  "precision": 0.22013201320132014,
+  "recall": 0.42729019859064704,
+  "f1": 0.2905685035939882,
+  "pr_auc": 0.2924989607421082,
+  "false_positive_rate": 0.0031084293289449626,
+  "true_negatives": 757828,
+  "false_positives": 2363,
+  "false_negatives": 894,
+  "true_positives": 667,
+  "training_seconds": 5.798949800082482,
+  "inference_seconds": 2.812940099975094,
+  "feature_set": "fan",
+  "typology_feature_count": 12
+}

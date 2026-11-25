@@ -1,0 +1,17 @@
+{
+  "model": "random_forest",
+  "threshold": 0.7383565657717727,
+  "precision": 0.12467260345730749,
+  "recall": 0.30493273542600896,
+  "f1": 0.17698456962260642,
+  "pr_auc": 0.13906589425540505,
+  "false_positive_rate": 0.004396263570602651,
+  "true_negatives": 756849,
+  "false_positives": 3342,
+  "false_negatives": 1085,
+  "true_positives": 476,
+  "training_seconds": 9.66162989998702,
+  "inference_seconds": 5.369377200026065,
+  "feature_set": "fan",
+  "typology_feature_count": 12
+}

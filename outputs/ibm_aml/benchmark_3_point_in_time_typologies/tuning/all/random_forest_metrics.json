@@ -1,0 +1,17 @@
+{
+  "model": "random_forest",
+  "threshold": 0.524,
+  "precision": 0.17571391818883458,
+  "recall": 0.4375400384368994,
+  "f1": 0.25073421439060206,
+  "pr_auc": 0.1986628680534835,
+  "false_positive_rate": 0.004214730245425163,
+  "true_negatives": 756987,
+  "false_positives": 3204,
+  "false_negatives": 878,
+  "true_positives": 683,
+  "training_seconds": 41.222914200043306,
+  "inference_seconds": 13.07647490000818,
+  "feature_set": "all",
+  "tuned": true
+}
